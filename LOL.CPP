@@ -1,8 +1,8 @@
-# include"all.h"
-# include"L_DRAW.cpp"
-# include"L_CREATE.cpp"
-# include"game.h"
-# include<time.h>
+# include "all.h"
+# include "l_draw.cpp"
+# include "l_create.cpp"
+# include "game.h"
+# include <time.h>
 # define drv int gd=DETECT,gm=2;initgraph(&gd,&gm,"C:\\TC\\BGI");
 //GLOBAL VARIABLES
 int cx,cy,q;
