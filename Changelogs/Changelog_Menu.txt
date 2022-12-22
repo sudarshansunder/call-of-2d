@@ -1,0 +1,57 @@
+CHANGELOG ( For MENU.CPP ONLY )
+************
+19-10-2013
+----------
+
+- Added function to sort the highscores
+- Delay time reduced
+BUGS -: Extra Records are being displayed in the highscore menu
+[FIX] -: (Temporary) Loop counter reduced while writting into file.
+
+22-10-13
+-----------
+- Loading Bar B)
+- Delay time reduced
+	- Before loading bar
+	- While exiting
+- Flashing exit
+- Inserted condn. to prevent null records.
+- Removed mouse function temporarily
+- Moved intro statements into a function
+- ***************Added intro sounds************* ( Damn Cool!! ) 
+-  Fixed High score list :D
+
+BUGS -: Fix erases records. [ FIXED xD]
+
+23-10-13
+---------
+- Added '%'  while loading and fixed a bug ( blinking too often )
+- Loading bar also looks cooler now
+- Reduced delay times in certain areas
+- Exit blinking reduced to 2
+- Sound is a bit faster now ( Delay Reduced )
+- Permanent Fix for Highscores list ( Should be bugless now )
+[BUGS] -: None I can think of :D
+
+26-10-13
+--------
+- Added mouse functions ~Hot~
+- Added game.h header file ~Hot~
+- Shooting mechanism over, including score incrementation ~Hot~
+- UI contains Score and Life ( Took me 2hrs to design the hearts :P )
+- Adjusted delays in certain areas
+- Loading bar now appears before " Press Any Key to Continue " 
+TIPS -: Download game.h and place in the BIN folder before you execute the program!
+BUGS -: None. Game is still incomplete though 
+
+31-10-13
+--------
+- UI Changes!! 
+- Collisions using getpixel() function ~HOT~
+- All player functions complete ~HOT~
+- Added sounds to jumping ~HOT~
+- Changed shooting sound ( Still isn't nice )
+- Updated prototypes in game.h
+- Removed dummy block for now
+
+BUGS -: None. 

@@ -1,0 +1,11 @@
+#include<fstream.h>
+#include<stdlib.h>
+#include<graphics.h>
+#include<process.h>
+#include<iomanip.h>
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+#include<bios.h>
+#include<dos.h>
+#include<ctype.h>
